@@ -1,4 +1,4 @@
-Github Solution URL -  https://github.com/DanSewell04/SEWELL-Daniel-Run-From-Doom/tree/main/Sewell%20Daniel%20-%20Run%20From%20Doom
+Github Solution URL - https://github.com/DanSewell04/SEWELLDaniel-DoomedRun
 
 How to play.
 Left and right on a controller to move / A and D on keyboard
